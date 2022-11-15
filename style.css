@@ -5,6 +5,19 @@ body {
 	background: #2c3e50
 }
 
+.name_crush {
+	position: absolute;
+	left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 40px;
+    background: white;
+    border-radius: 40px;
+    max-width: 250px;
+    font-family: fantasy;
+}
 .box {
 	width: 1000px;
 	position: absolute;
